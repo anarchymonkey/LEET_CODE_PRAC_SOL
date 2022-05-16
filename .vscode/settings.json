@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "intro_to_data_structures/arrays/MaxConsecutiveOnes",
+        "intro_to_data_structures/arrays/FindNoWithEvenNoOfDigits",
+        "intro_to_data_structures/arrays/SquaresOfSortedArrays"
+    ]
+}
