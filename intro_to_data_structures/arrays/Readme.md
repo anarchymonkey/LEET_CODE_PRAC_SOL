@@ -14,8 +14,8 @@
 
     * Merge Sorted Arrays - [link](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/)
 
-  <!-- * Deletions
+  * Deletions
 
     * Remove Element - [link](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3247/)
 
-    * -->
+    * Remove duplicates from the array - [link](https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3248/)
