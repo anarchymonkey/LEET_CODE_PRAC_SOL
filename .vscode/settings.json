@@ -1,11 +1,17 @@
 {
     "java.project.sourcePaths": [
+        "intro_to_data_structures/arrays/searching/ValidMountainArray",
+        "intro_to_data_structures/arrays/searching/CheckIfNAndItsDoubleExist",
         "intro_to_data_structures/arrays/insertion/MergeSortedArray",
         "intro_to_data_structures/arrays/insertion/DuplicateZeros",
+        "intro_to_data_structures/arrays/inPlaceOperations/ReplaceArrayWithGreaterElementsOnRight",
+        "intro_to_data_structures/arrays/inPlaceOperations/RemoveDupFromSortedArray",
+        "intro_to_data_structures/arrays/inPlaceOperations/MoveZerosToEnd",
+        "intro_to_data_structures/arrays/deletion/RemoveElementFromArray",
         "intro_to_data_structures/arrays/deletion/RemoveElement",
         "intro_to_data_structures/arrays/SquaresOfSortedArrays",
         "intro_to_data_structures/arrays/MaxConsecutiveOnes",
         "intro_to_data_structures/arrays/FindNoWithEvenNoOfDigits",
-        "intro_to_data_structures/arrays/deletion/RemoveElementFromArray"
+        "intro_to_data_structures/arrays/inPlaceOperations/SortArrayByParity"
     ]
 }
